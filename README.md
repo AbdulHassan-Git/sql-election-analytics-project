@@ -1,12 +1,12 @@
 
 ## 📘 Election Management System — SQL Server Project
-A complete end-to-end Election Management System built using Microsoft SQL Server, featuring:
-•	Full relational database schema
-•	Referential integrity (PK/FK constraints)
-•	Randomised data seeding
-•	Comprehensive SQL analysis
-•	Data-driven insights on voter behaviour, party performance, turnout, and more
-This project demonstrates real-world database design, data engineering, and analytical SQL skills — ideal for your portfolio.
+A complete end-to-end Election Management System built using Microsoft SQL Server, featuring:  
+- Full relational database schema  
+- Referential integrity (PK/FK constraints)  
+- Randomised data seeding  
+- Comprehensive SQL analysis  
+- Data-driven insights on voter behaviour, party performance, turnout, and more  
+This project demonstrates real-world database design, data engineering, and analytical SQL skills.
 ________________________________________
 ## 🗂 Table of Contents
 1.	Project Overview
@@ -177,7 +177,7 @@ Age Group	Voters
 18–25	12  
 56+	9  
 ________________________________________
-7. Voter Engagement
+7. Voter Engagement  
 Voter 9 cast 8 votes — the highest.
 ________________________________________
 8. Audit Log Activity  
